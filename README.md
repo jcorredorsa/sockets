@@ -40,14 +40,6 @@ Cada cliente podrá enviar mensajes que serán recibidos por el servidor y reenv
 - **Validaciones básicas**: control de conexiones y mensajes.  
 
 
-## Próximas mejoras
-- Interfaz gráfica para el cliente.  
-- Manejo de usuarios con alias.  
-- Persistencia de mensajes en base de datos.  
-- Encriptación de la comunicación.  
 
-
-## Autor
-Desarrollado por **Juan Sebastián Corredor Sáenz**  
-Bogotá, Colombia  
+Desarrollado por Juan Sebastián Corredor Sáenz 
 
