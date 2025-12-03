@@ -33,13 +33,6 @@ Cada cliente podrá enviar mensajes que serán recibidos por el servidor y reenv
 3. Enviar mensajes desde cada cliente y observar cómo se transmiten a todos los conectados.  
 
 
-## Conceptos aplicados
-- **Sockets TCP/IP**: comunicación confiable entre procesos.  
-- **Concurrencia**: manejo de múltiples clientes simultáneamente.  
-- **Arquitectura cliente-servidor**: separación clara de responsabilidades.  
-- **Validaciones básicas**: control de conexiones y mensajes.  
-
-
 
 Desarrollado por Juan Sebastián Corredor Sáenz 
 
